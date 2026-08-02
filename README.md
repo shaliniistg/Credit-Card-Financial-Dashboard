@@ -55,11 +55,13 @@ Business Insights
 
 ### Credit Card Report
 
-![Credit Card Report](Dashboard%20Screenshots/Credit%20Card%20Report.png)
+<img width="878" height="506" alt="cc_transactions" src="https://github.com/user-attachments/assets/dc8123c3-1374-4fac-8cca-a8a52450d9d3" />
+
 
 ### Customer Report
 
-![Customer Report](Dashboard%20Screenshots/Customer%20Report.png)
+<img width="767" height="431" alt="cc_customer" src="https://github.com/user-attachments/assets/a8de19a7-2b5d-4a51-a45c-fa44296b867b" />
+
 
 ---
 
