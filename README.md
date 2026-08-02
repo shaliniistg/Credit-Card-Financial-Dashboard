@@ -142,13 +142,3 @@ Credit-Card-Financial-Dashboard
 ├── Dataset
 └── Dashboard Screenshots
 ```
-
----
-
-## 🚀 Future Improvements
-
-- Implement Incremental Refresh
-- Add Row-Level Security (RLS)
-- Create Drill-through Pages
-- Connect to a live SQL Server
-- Build Mobile-Optimized Dashboard
